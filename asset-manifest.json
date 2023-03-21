@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/educase-app/static/css/main.99833cdf.css",
+    "main.js": "/educase-app/static/js/main.db3ef3a0.js",
+    "static/js/787.2eb18c78.chunk.js": "/educase-app/static/js/787.2eb18c78.chunk.js",
+    "static/media/twitter-logo.png": "/educase-app/static/media/twitter-logo.44f96dd22d6303b3f55d.png",
+    "static/media/logo.svg": "/educase-app/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/educase-app/index.html",
+    "main.99833cdf.css.map": "/educase-app/static/css/main.99833cdf.css.map",
+    "main.db3ef3a0.js.map": "/educase-app/static/js/main.db3ef3a0.js.map",
+    "787.2eb18c78.chunk.js.map": "/educase-app/static/js/787.2eb18c78.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.99833cdf.css",
+    "static/js/main.db3ef3a0.js"
+  ]
+}
